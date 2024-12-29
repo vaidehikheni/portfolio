@@ -1,0 +1,11 @@
+{
+  "hero": {
+    "imgUrl": "/src/assets/home-banner.png",
+    "name": "Jenna Ortega",
+    "heading": "Hay! I’m Jenna",
+    "typingText": "I'm a Developer",
+    "description": "",
+    "btnText": "",
+    "btnUrl": ""
+  }
+}

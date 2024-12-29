@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "imgUrl": "/src/assets/home-banner.png",
+    "name": "Jenna Ortega",
+    "heading": "Hay! I’m Jenna",
+    "typingText": "I'm a Developer",
+    "description": "Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment.",
+    "btnText": "GET IN TOUCH",
+    "btnUrl": ""
+  },
+  "brands": [
+    {
+      "src": "/src/assets/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/src/assets/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/src/assets/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/src/assets/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/src/assets/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/src/assets/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/src/assets/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/src/assets/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/src/assets/about-banner.png",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>UI UX DESIGN</span> PROJECTS",
+    "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+    "funfacts": [
+      {
+        "title": "Google Review",
+        "number": 280
+      },
+      {
+        "title": "Years Experience",
+        "number": 15
+      },
+      {
+        "title": "Awward Winning",
+        "number": 49
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects"
+}

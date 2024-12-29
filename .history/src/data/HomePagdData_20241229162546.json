@@ -1,0 +1,47 @@
+{
+  "hero": {
+    "imgUrl": "/src/assets/home-banner.png",
+    "name": "Jenna Ortega",
+    "heading": "Hay! I’m Jenna",
+    "typingText": "I'm a Developer",
+    "description": "Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment.",
+    "btnText": "GET IN TOUCH",
+    "btnUrl": ""
+  },
+  "brand": {
+    [
+      {
+        "src": "/images/brand-1.svg",
+        "alt": "Logolpsum"
+      },
+      {
+        "src": "/images/brand-2.svg",
+        "alt": "Logolpsum"
+      },
+      {
+        "src": "/images/brand-1.svg",
+        "alt": "Logolpsum"
+      },
+      {
+        "src": "/images/brand-2.svg",
+        "alt": "Logolpsum"
+      },
+      {
+        "src": "/images/brand-1.svg",
+        "alt": "Logolpsum"
+      },
+      {
+        "src": "/images/brand-2.svg",
+        "alt": "Logolpsum"
+      },
+      {
+        "src": "/images/brand-1.svg",
+        "alt": "Logolpsum"
+      },
+      {
+        "src": "/images/brand-2.svg",
+        "alt": "Logolpsum"
+      }
+    ]
+  }
+}

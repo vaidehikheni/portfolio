@@ -1,0 +1,11 @@
+{
+  "hero": {
+    "imgUrl": "/src/assets/home-banner.png",
+    "name": "",
+    "heading": "",
+    "typingText": "",
+    "description": "",
+    "btnText": "",
+    "btnUrl": ""
+  }
+}
